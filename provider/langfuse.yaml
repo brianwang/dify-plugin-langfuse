@@ -52,7 +52,7 @@ credentials_for_provider:
       zh_Hans: 请输入您的公钥
       pt_BR: Por favor, insira sua chave pública
   langfuse_host:
-    type: secret-input
+    type: text-input
     required: false
     label:
       en_US: Langfuse Host

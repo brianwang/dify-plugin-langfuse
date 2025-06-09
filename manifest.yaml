@@ -1,6 +1,6 @@
-version: 0.0.1
+version: 0.0.2
 type: plugin
-author: gao-ai-com
+author: iyunxiao
 name: langfuse
 label:
   en_US: Langfuse
@@ -33,6 +33,6 @@ meta:
     language: python
     version: "3.12"
     entrypoint: main
-created_at: 2025-04-10T16:26:55.424381+09:00
+created_at: 2025-06-09T16:26:55.424381+09:00
 privacy: PRIVACY.md
 verified: false
